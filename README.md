@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 Real-Time Disaster Information Aggregation Software
 
 A comprehensive desktop application for real-time disaster monitoring and response, built with Python and PyQt5. This software aggregates data from multiple sources including GDACS API, news feeds, social media, and emergency contacts to provide actionable insights during disaster events.
@@ -149,3 +150,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Built with ❤️ for disaster response and community safety*
+=======
+# disaster-shelter-software
+>>>>>>> 4de9fb7a9318bbf87ef11f0388f8f768a8cdc719
