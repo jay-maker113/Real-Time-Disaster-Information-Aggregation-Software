@@ -1,0 +1,11 @@
+PyQt5
+PyQtWebEngine
+folium
+requests
+feedparser
+xmltodict
+python-dotenv
+playwright
+parsel
+nested-lookup
+google-genai
