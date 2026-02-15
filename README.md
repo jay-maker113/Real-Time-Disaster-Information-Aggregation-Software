@@ -107,8 +107,8 @@ disaster-shelter-software/
 │   ├── emergency.py            # Emergency contacts page
 │   ├── Alertdetails.py         # Alert card widget
 │   ├── Alertpage.py            # Detailed alert view with AI insights
-│   ├── gdcas_alerts.py         # GDACS API integration
-│   ├── fetch_gdcas_events.py   # Event and polygon fetching
+│   ├── gdacs_alerts.py         # GDACS API integration
+│   ├── fetch_gdacs_events.py   # Event and polygon fetching
 │   ├── gemini.py               # AI analysis functions
 │   └── helper.py               # Utility functions
 │
